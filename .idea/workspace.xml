@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="608d2894-65b4-4e5d-a796-56311766fccd" name="Changes" comment="create a project" />
+    <list default="true" id="608d2894-65b4-4e5d-a796-56311766fccd" name="Changes" comment="create a project">
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/templates/catalog/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/templates/catalog/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +64,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.get_open.executor": "Run",
     "Python.manage.executor": "Run",
+    "Python.views.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "feature1",
     "run.code.analysis.last.selected.profile": "aDefault",
